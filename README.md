@@ -73,13 +73,7 @@ I enjoy turning ideas into working projects, experimenting with new technologies
 
 ## 🚀 Featured Project
 
-### 💤 Drowsiness Detection AI
-
-A real-time drowsiness detection system built with Python, OpenCV, and MediaPipe.
-
-The system analyzes facial features using **Eye Aspect Ratio (EAR)** and **Mouth Aspect Ratio (MAR)** to monitor signs of fatigue and drowsiness.
-
-🔗 **[View Repository](https://github.com/AGCode7/Drowsiness-Detection-AI)**
+*More projects will be added here as they are developed.*
 
 ---
 
