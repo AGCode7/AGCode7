@@ -16,7 +16,6 @@ I enjoy turning ideas into working projects, experimenting with new technologies
 * JavaScript
 * HTML
 * CSS
-* Bash
 * SQL
 
 ### 🤖 AI, Data & Computer Vision
@@ -38,7 +37,6 @@ I enjoy turning ideas into working projects, experimenting with new technologies
 * Node.js
 * REST APIs
 * SQLite
-* WordPress
 * JSON
 * Requests
 * BeautifulSoup
@@ -48,7 +46,6 @@ I enjoy turning ideas into working projects, experimenting with new technologies
 * CustomTkinter
 * Tkinter
 * Pygame
-* Pillow
 
 ### 🛠️ Tools & Environment
 
