@@ -1,67 +1,76 @@
-👋 Hi, I'm Ali Gholami
+👋 Hey, I'm Ali Gholami (AGCode7)
 
-Python Developer | Exploring Artificial Intelligence & Machine Learning
+🧠 Python Developer | AI & Machine Learning Enthusiast
 
-I’m a developer passionate about building software, exploring artificial intelligence, and turning ideas into practical projects.
+I'm a developer passionate about software engineering, artificial intelligence, and building practical solutions through code.
 
-Currently, I'm focused on strengthening my Python skills and expanding my knowledge of Machine Learning and Data Science.
+I enjoy exploring new technologies, solving problems, and turning ideas into real-world projects.
 
 ---
 
-🚀 What I'm Working On
+🚀 About Me
 
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🐍 Improving my Python development skills
+- 🐍 Focused on Python development
+- 🤖 Exploring Artificial Intelligence & Machine Learning
 - 📊 Learning Data Science and data analysis
-- 🛠️ Building practical software projects
-- 🧠 Continuously learning and experimenting with new technologies
+- 🛠️ Building practical software applications
+- 📚 Always learning, experimenting, and improving
+
+---
 
 💻 Tech Stack
 
-Languages
+Programming Languages
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>AI & Data Science
 
-Data Science & AI
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>Tools & Technologies
 
-"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-"Matplotlib" (https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-"Scikit-learn" (https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>---
 
-Tools & Technologies
+🌟 Featured Projects
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-📌 Featured Projects
-
-I'm continuously developing and improving projects. Here are some of my repositories:
-
-- 🎨 AI Virtual Painter — Computer vision-based drawing project.
-- 📥 NovaDL — A desktop download manager.
-- 🤖 Telegram OCR Bot — Text recognition using OCR technology.
-- 💤 Drowsiness Detection — A computer vision-based fatigue detection application.
+Project| Description
+🎨 "AI Virtual Painter" (https://github.com/AGCode7/AI-Virtual-Painter)| A computer vision-based virtual drawing application.
+📥 "NovaDL" (https://github.com/AGCode7)| A desktop download manager built with Python.
+🤖 "Telegram OCR Bot" (https://github.com/AGCode7/telegram-ocr-bot)| A Telegram bot for text recognition using OCR.
 
 ---
+
+📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AGCode7&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGCode7&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>---
 
 🎯 My Goal
 
-To become a skilled AI and Software Developer by building real-world projects, learning continuously, and contributing to the developer community.
+To grow as an AI and Software Developer by building meaningful projects, strengthening my technical skills, and continuously exploring new possibilities in technology.
 
 ---
 
 📫 Connect With Me
 
-""GitHub" (https://img.shields.io/badge/GitHub-AGCode7-181717?style=for-the-badge&logo=github)" (https://github.com/AGCode7)
-
----
+<p>
+  <a href="https://github.com/AGCode7">
+    <img src="https://img.shields.io/badge/GitHub-AGCode7-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>---
 
 <p align="center">
-  <i>"Building, learning, and improving — one project at a time."</i>
+  <i>"Building the future, one line of code at a time."</i>
 </p>
