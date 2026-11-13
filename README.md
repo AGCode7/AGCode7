@@ -1,100 +1,67 @@
-# 👋 Hi, I'm Ali
+👋 Hi, I'm Ali Gholami
 
-### 🐍 Python Developer | AI & Machine Learning Enthusiast
+Python Developer | Exploring Artificial Intelligence & Machine Learning
 
-I'm a Python developer focused on building practical software and exploring **Artificial Intelligence, Machine Learning, Data Analysis, and Computer Vision**.
+I’m a developer passionate about building software, exploring artificial intelligence, and turning ideas into practical projects.
 
-I enjoy turning ideas into working projects, experimenting with new technologies, and continuously improving my development skills.
-
----
-
-## 🧠 Skills & Technologies
-
-### 💻 Languages
-
-* Python
-* JavaScript
-* HTML
-* CSS
-* SQL
-
-### 🤖 AI, Data & Computer Vision
-
-* Machine Learning
-* Computer Vision
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-* Data Mining
-* OpenCV
-* MediaPipe
-
-### 🌐 Web & Backend
-
-* Flask
-* Django
-* Node.js
-* REST APIs
-* SQLite
-* JSON
-* Requests
-* BeautifulSoup
-
-### 🖥️ Python & GUI Development
-
-* CustomTkinter
-* Tkinter
-* Pygame
-
-### 🛠️ Tools & Environment
-
-* Git
-* GitHub
-* VS Code
-* Linux
-* VMware
-* PyInstaller
-* Inno Setup
+Currently, I'm focused on strengthening my Python skills and expanding my knowledge of Machine Learning and Data Science.
 
 ---
 
-## 📚 Currently Learning
+🚀 What I'm Working On
 
-* Machine Learning
-* Deep Learning
-* Artificial Intelligence
-* Computer Vision
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🐍 Improving my Python development skills
+- 📊 Learning Data Science and data analysis
+- 🛠️ Building practical software projects
+- 🧠 Continuously learning and experimenting with new technologies
 
----
+💻 Tech Stack
 
-## 🚀 Featured Project
+Languages
 
-*More projects will be added here as they are developed.*
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+Data Science & AI
 
-## 📌 Projects
+"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+"Matplotlib" (https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+"Scikit-learn" (https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-*More projects will be added here as they are developed.*
+Tools & Technologies
 
----
-
-## 🎯 Goals
-
-* Build practical AI applications
-* Improve Machine Learning and Deep Learning skills
-* Develop advanced Computer Vision projects
-* Build reliable and useful software
-* Grow as a professional Python & AI developer
-
----
-
-## 📫 Find Me
-
-🐙 **GitHub:** [@AGCode7](https://github.com/AGCode7)
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-⭐ Thanks for visiting my profile!
+📌 Featured Projects
 
+I'm continuously developing and improving projects. Here are some of my repositories:
+
+- 🎨 AI Virtual Painter — Computer vision-based drawing project.
+- 📥 NovaDL — A desktop download manager.
+- 🤖 Telegram OCR Bot — Text recognition using OCR technology.
+- 💤 Drowsiness Detection — A computer vision-based fatigue detection application.
+
+---
+
+🎯 My Goal
+
+To become a skilled AI and Software Developer by building real-world projects, learning continuously, and contributing to the developer community.
+
+---
+
+📫 Connect With Me
+
+""GitHub" (https://img.shields.io/badge/GitHub-AGCode7-181717?style=for-the-badge&logo=github)" (https://github.com/AGCode7)
+
+---
+
+<p align="center">
+  <i>"Building, learning, and improving — one project at a time."</i>
+</p>
