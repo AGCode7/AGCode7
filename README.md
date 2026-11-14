@@ -1,6 +1,6 @@
-<p align="center">👋 Hey, I'm Ali Gholami</p>
+<p>👋 Hey, I'm Ali Gholami</p>
 
-<h3 align="center">
+<h3>
   <code>AGCode7</code> · Python Developer · AI & Machine Learning Enthusiast
 </h3><p align="center">
   <img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-7C3AED?style=for-the-badge" />
