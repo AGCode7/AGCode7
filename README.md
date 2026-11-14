@@ -6,9 +6,11 @@
   <img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BUILDING-Python%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/ALWAYS-Learning-16A085?style=for-the-badge" />
-</p><p align="center">
+</p><p>
   <b>Turning ideas into code, and code into possibilities.</b>
-</p>---
+</p>
+
+---
 
 🧠 About Me
 
